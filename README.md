@@ -1,6 +1,6 @@
 ### Jazmin Valeriano 👋
 
-🇲🇽 Mexicana por 🇨🇭 Suiza 
+🇲🇽 Mexicana por 🇨🇭 Suiza  
 Towards Msc in Bioinformatics 🎓
 
 <!--
