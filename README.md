@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jazmin Valeriano 👋
 
 🇲🇽 Mexicana por 🇨🇭 Suiza 
 on my first steps 👣 towards Msc in Bioinformatics 🎓
