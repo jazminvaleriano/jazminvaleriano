@@ -1,7 +1,7 @@
 ### Jazmin Valeriano 👋
 
 🇲🇽 Mexicana por 🇨🇭 Suiza 
-on my first steps 👣 towards Msc in Bioinformatics 🎓
+Towards Msc in Bioinformatics 🎓
 
 <!--
 **jazminvaleriano/jazminvaleriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
