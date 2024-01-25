@@ -1,5 +1,3 @@
-### Jazmin Valeriano 👋
-
 Towards Msc in Bioinformatics 🎓
 
 <!--
